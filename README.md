@@ -1,2 +1,2 @@
 # Estrutura-de-Dados
-Trabalhos da cadeira de Estrutura de Dados(Segundo Semestre)
+Trabalhos referentes a cadeira de Estrutura de Dados(Segundo Semestre)
